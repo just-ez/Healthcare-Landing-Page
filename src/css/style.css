@@ -321,10 +321,10 @@ footer {
     justify-content: flex-start;
 }
 .testimonial img {
-    width: 70%;
+    width: 50%;
 }
 .test-txt {
-    width: 588.36px;  
+    width: 50%;  
     height: 100%;
 }
 .test-txt p {
