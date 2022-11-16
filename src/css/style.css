@@ -329,7 +329,7 @@ footer {
 }
 .test-txt p {
     width: 90%;
-    height: 163.52px;
+    padding-bottom: 20px;
 font-family: 'Ubuntu';
 font-style: normal;
 font-weight: 400;
