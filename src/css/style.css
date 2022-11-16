@@ -122,7 +122,7 @@ nav ul select:focus {
     bottom: -50px;
     right: -100px;
 }
-.shape {
+/* .shape {
     position: absolute;
 width: 719.29px;
 height: 500.86px;
@@ -133,7 +133,7 @@ opacity: 0.05;
 transform: rotate(9.38deg);
 z-index: -1;
 border-top-left-radius: 10px;
-}
+} */
 .about-us {
     width: 35vw;
     display: flex;
